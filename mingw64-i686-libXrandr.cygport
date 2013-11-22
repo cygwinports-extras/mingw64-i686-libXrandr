@@ -3,7 +3,7 @@ ORIG_PN="libXrandr"
 inherit cross xorg
 
 NAME="mingw64-i686-libXrandr"
-VERSION=1.4.0
+VERSION=1.4.2
 RELEASE=1
 CATEGORY="Devel"
 SUMMARY="X.Org X RandR extension library for Win32 toolchain"
